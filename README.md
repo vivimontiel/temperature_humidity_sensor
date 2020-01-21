@@ -6,3 +6,5 @@ Viviana MONTIEL
 Fabiana MONTIEL
 
 ![alt-text](schema.gif)
+
+![alt-text](schema.jpg)
