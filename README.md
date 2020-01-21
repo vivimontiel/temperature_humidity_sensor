@@ -4,3 +4,5 @@ Rendu Cours Electronique Embarquée
 
 Viviana MONTIEL
 Fabiana MONTIEL
+
+![alt-text](schema.gif)
